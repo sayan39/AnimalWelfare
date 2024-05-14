@@ -1,5 +1,10 @@
 # AnimalWelfare
 this website made for rescue Stray Animals and give them a proper shelter.
+
+## Tech Stack
+
+ HTML, CSS, Bootstrap,PHP, My sql,js
+
 # all the process for user side by using screenshots
 index Page:<br>
 
