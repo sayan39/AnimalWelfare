@@ -25,5 +25,25 @@ donation page (you can donate amount using razorpay):<br>
 
 ![Screenshot (40)](https://github.com/sayan39/AnimalWelfare/assets/118959230/ce337d9c-67ee-4aba-9783-cb6a131f5454)
 
+# all the process for admin side by using screenshots
+login page :<br>
+
+![Screenshot (41)](https://github.com/sayan39/AnimalWelfare/assets/118959230/7e9ac7af-118e-4b41-b0a1-4d56f2971e3e)
+
+dashboard page : <br>
+
+![Screenshot (42)](https://github.com/sayan39/AnimalWelfare/assets/118959230/2e63d367-af05-4381-a3e1-d5cbdd96c815)
+
+manage welfare page :<br>
+![Screenshot (43)](https://github.com/sayan39/AnimalWelfare/assets/118959230/687b9d00-57c8-496b-b4ce-f093e2946c56)
+
+manage rescue page :<br>
+
+manage members page :<br>
+
+ donation details page :<br>
+
+![Screenshot (47)](https://github.com/sayan39/AnimalWelfare/assets/118959230/04145b80-e30f-47a3-ab00-a186efd6f077)
+
 
 
