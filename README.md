@@ -52,7 +52,9 @@ manage welfare page :<br>
 
 manage members page :<br>
 
- donation details page :<br>
+ ![Screenshot (52)](https://github.com/sayan39/AnimalWelfare/assets/118959230/39b6d151-2ad3-492e-ae80-579045efee48)
+
+donation details page :<br>
 
 ![Screenshot (47)](https://github.com/sayan39/AnimalWelfare/assets/118959230/04145b80-e30f-47a3-ab00-a186efd6f077)
 
