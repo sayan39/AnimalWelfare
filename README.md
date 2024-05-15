@@ -26,6 +26,10 @@ service page : <br>
 
 ![Screenshot (39)](https://github.com/sayan39/AnimalWelfare/assets/118959230/14fc1144-0758-4a54-9fc1-9cf04ac2003c)
 
+feedback page :<br>
+
+![Screenshot (49)](https://github.com/sayan39/AnimalWelfare/assets/118959230/40d2a81c-4a70-4ce6-8999-1ea3f30f32ce)
+
 donation page (you can donate amount using razorpay):<br>
 
 ![Screenshot (40)](https://github.com/sayan39/AnimalWelfare/assets/118959230/ce337d9c-67ee-4aba-9783-cb6a131f5454)
