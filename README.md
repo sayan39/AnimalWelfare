@@ -42,7 +42,9 @@ dashboard page : <br>
 manage welfare page :<br>
 ![Screenshot (43)](https://github.com/sayan39/AnimalWelfare/assets/118959230/687b9d00-57c8-496b-b4ce-f093e2946c56)
 
-manage rescue page :<br>
+ rescue page :<br>
+ 
+![Screenshot (48)](https://github.com/sayan39/AnimalWelfare/assets/118959230/3b0910c4-8e95-41b3-a4dd-1d61ccf5b7f8)
 
 manage members page :<br>
 
