@@ -58,5 +58,10 @@ donation details page :<br>
 
 ![Screenshot (47)](https://github.com/sayan39/AnimalWelfare/assets/118959230/04145b80-e30f-47a3-ab00-a186efd6f077)
 
+manage feedback page : <br>
+
+![Screenshot (50)](https://github.com/sayan39/AnimalWelfare/assets/118959230/f1988d4d-7af1-425b-84db-6103630d8e78)
+
+
 
 
